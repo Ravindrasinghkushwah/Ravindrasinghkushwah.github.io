@@ -44,8 +44,10 @@ span{
     text-align: center;
     width:fit-content;
     margin: auto;
+    margin-top: 0;
     border-top-right-radius: 1vw;
     border-bottom-left-radius: 1vw;
+    
     
 }
 #contact>a{
@@ -55,4 +57,29 @@ span{
     color:white;
     text-shadow: 0.1vw .1vw blue;
     
+    
+}
+#check{
+    background-color:teal;
+    width:fit-content;
+    margin:auto;
+    margin-top: 2vw;
+    border-radius: .3vw;
+}
+article{
+    background-color: white;
+}
+aside{
+    background-color: white;
+}
+img{
+    
+    border-radius: 1vw;
+    border-bottom:.2vw solid white;
+    border-top:0.4vw solid  crimson;
+}
+#profilepic{
+    width:fit-content;
+    margin:auto;
+    margin-bottom:0;
 }
